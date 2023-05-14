@@ -1,1 +1,20 @@
-# charakha
+# pipeline
+- [ ] chemical searching
+- [ ] QSAR
+- [ ] Database (chemspider, chemicalize, ul-cheminformatics-toolkit, )
+- [ ] calculation of molecular descriptors , fingerprints
+- [ ] clustering algorithms
+- [ ] chemical space using tSNE
+- [ ] chemical space using UMAP
+- [ ] gasteiger partial charges
+- [ ] Murcko scaffold
+- [ ] Mutate
+- [ ] salt stripper
+- [ ] solubility prediction
+- [ ] Two component reaction
+- [ ] USRCAT - ultrafast shape prediction
+- [ ] alphafold
+- [ ] Marvinjs
+- [ ] JChem
+- [ ] Substructure Search
+- [ ] 
